@@ -1,0 +1,5 @@
+{
+    "MONGO_URI_SERVER": "mongodb+srv://Backend_Votaciones:registraduria@cluster0.ot5cdry.mongodb.net/?retryWrites=true&w=majority",
+    "MONGO_URI_LOCAL": "mongodb://localhost", 
+    "LOCAL_PORT": 27017
+}
