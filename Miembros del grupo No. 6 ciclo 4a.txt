@@ -1,0 +1,7 @@
+Nombres		Apellidos		Celular		Correo Electronico
+
+Edwin Johan	Alvarez Chacon		3213059607	edwinjohanac@gmail.com
+Estefania	Higuita Loaiza		3188577494	estefaniahiguita0502@gmail.com
+Fabián David	Sanchez Deantonio	3114947872	fabian.sande99@gmail.com
+Hernán David	Zúñiga Méndez		3163122215	hzuniga1993@gmail.com
+Diego Giovanny	Rincon Ramirez		3124683456	dgrincon2215@gmail.com
